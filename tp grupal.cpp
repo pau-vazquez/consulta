@@ -36,6 +36,7 @@ main(){
 			printf("\t\t\t\t\tBienvenido a El ahorcado!");
 		break;
 		default:  printf ("Opcion ingresada no valida \n");	
+		printf ("o");
 	}
 	
 }
